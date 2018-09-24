@@ -291,6 +291,7 @@ M:	Liviu Dudau <liviu.dudau@foss.arm.com>
 S:	Maintained
 T:	git git://github.com/ARM-software/u-boot.git
 F:	drivers/clk/clk_vexpress_osc.c
+F:	drivers/i2c/i2c-versatile.c
 F:	drivers/misc/vexpress_config.c
 N:	vexpress
 
